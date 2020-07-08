@@ -1,0 +1,18 @@
+        #div2{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            left: 250px;
+            background: blue;
+        }
+        #div1{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            background: red;
+        }
+        #state{
+            left: 110px;
+            position: absolute;
+            top: 150px;
+        }
